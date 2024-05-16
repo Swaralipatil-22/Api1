@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "ORM",
+    "host": "atlas-dev.c4wfursnjbor.ap-south-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "ORM",
+    "host": "atlas-dev.c4wfursnjbor.ap-south-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "ORM",
+    "host": "atlas-dev.c4wfursnjbor.ap-south-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
